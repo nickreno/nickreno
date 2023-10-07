@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickreno
 - 👀 I’m interested in virtual reality, networking, and software engineering.
-- 🌱 I’m currently studying Computer Science at the University of Florida.
-- 💞️ I’m looking to collaborate on extended reality projects or mobile app development/security.
+- 🌱 I received my Bachelors of Science degree in Computer Science from the University of Florida. I am currently in the Masters in Digital Arts and Sciences program at the University of Florida.
+- 💞️ I’m looking to collaborate on extended reality projects and/or game development.
 - 📫 My email: nick.p.reno@gmail.com
